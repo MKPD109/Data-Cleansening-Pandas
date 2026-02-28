@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a solution to the "Quality ML Developer Intern" technical test. The goal was to build a data dashboard using a provided bug tracking dataset (`bugs.csv`) to answer key questions regarding bug volume, severity, throughput, and component risk.
+This project is a solution to the "Quality ML Developer Intern" technical test (which I fail QAQ). The goal was to build a data dashboard using a provided bug tracking dataset (`bugs.csv`) to answer key questions regarding bug volume, severity, throughput, and component risk.
 
 In addition to standard visualizations, this solution includes an **Automated Insight Extraction** engine and a robust **Data Cleaning Pipeline** to handle significant data quality issues found in the raw file.
 
@@ -84,4 +84,5 @@ The raw data contained numerous typos in the `Severity` and `Status` columns.
 If time permitted, I would implement a **Regression Model** (e.g., Random Forest) to predict **Time-to-Close** for new bugs.
 
   * **Features:** `Severity`, `Component`, `Reporter Team`, and `Found in Release`.
+
   * **Goal:** Provide accurate resolution estimates for Project Managers during the triage phase.
