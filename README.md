@@ -1,4 +1,4 @@
-# Quality ML Developer Intern - Dashboard & Analysis
+# Data Dashboard & Analysis
 
 ## Project Overview
 
@@ -86,3 +86,4 @@ If time permitted, I would implement a **Regression Model** (e.g., Random Forest
   * **Features:** `Severity`, `Component`, `Reporter Team`, and `Found in Release`.
 
   * **Goal:** Provide accurate resolution estimates for Project Managers during the triage phase.
+
